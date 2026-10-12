@@ -1,6 +1,7 @@
 # hx-callback-cli
 
-**Out-of-band correlation** for blind SSRF/XXE/RCE chains. Local HTTP listener logs full requests; UDP DNS socket logs query payloads for hex inspection.
+**Out-of-band correlation** for blind SSRF/XXE/RCE chains. Local HTTP listener logs full
+requests; UDP DNS socket logs query payloads for hex inspection.
 
 ```bash
 hx-callback listen -p 8848
