@@ -19,7 +19,7 @@ you can match to the finding in your report.
 ## Install
 
 ```bash
-git clone https://github.com/HackerX-offical/hx-callback-cli.git
+git clone https://github.com/HackerX-official/hx-callback-cli.git
 cd hx-callback-cli
 npm install
 npm run build
